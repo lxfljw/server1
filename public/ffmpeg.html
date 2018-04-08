@@ -1,0 +1,40 @@
+<!-- 
+MIT License 2015 Leo Villar
+https://github.com/leovillar/ESP8266_MQTT_NodeJs
+-->
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+  <link rel="stylesheet" href="/css/angular-material.css">
+  <link rel="stylesheet" type="text/css" href="/css/app.css">
+</head>
+<body ng-app="App">
+  <md-content>
+    <md-toolbar>
+      <h2 class="md-toolbar-tools">
+        <span>ESP8266 + MQTT + WebSocket + Angular Material</span>
+      </h2>
+    </md-toolbar>  
+
+  </md-content>
+
+
+
+  <canvas id="videoCanvas" width="640" height="480">
+
+  </canvas>
+  <script type="text/javascript" src="./js/jsmpg.js"></script>
+  <script type="text/javascript">
+    // Setup the WebSocket connection and start the player
+    
+    var client = new WebSocket( "ws://" +"localhost:9999" + "/camera_135" );
+
+    var canvas = document.getElementById('videoCanvas');
+    var player = new jsmpeg(client, {canvas:canvas});
+  </script>
+
+
+
+</body>
+</html>

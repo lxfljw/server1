@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Very Basic 3D Viewer</title>
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, user-scalable=no" />
+    <meta charset="utf-8">
+
+
+    <script   src="js/jquery-3.1.1.min.js" ></script>
+
+    <!-- The Viewer CSS -->
+    <link rel="stylesheet" href="https://developer.api.autodesk.com/viewingservice/v1/viewers/style.min.css" type="text/css">
+    <link rel="stylesheet" href="https://developer.api.autodesk.com/viewingservice/v1/viewers/A360.css" type="text/css">
+  </head>
+
+  <body>
+    <div id="viewer"></div>
+    <!-- The Viewer JS 
+
+dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bW9kZWwyMDE3LTAxLTA2LTIyLTA5LTUyLXJhcnp0NWRsZDF5eWRyamh1YTY2Znl1bmZhdzQvQVJNX0ZJTkFMLlNUTA
+
+dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bW9kZWwyMDE3LTAxLTA3LTE1LTE1LTMyLXJhcnp0NWRsZDF5eWRyamh1YTY2Znl1bmZhdzQvU3Byb3V0JTIwMiUyMHYzNy5mM2Q
+
+dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bW9kZWwyMDE3LTAxLTA3LTE1LTE5LTI3LXJhcnp0NWRsZDF5eWRyamh1YTY2Znl1bmZhdzQvU3Byb3V0JTIwMiUyMHYzNy5zdGw
+-->
+    <script src="https://developer.api.autodesk.com/viewingservice/v1/viewers/three.min.js?v=v1.2.22"></script>
+    <script src="https://developer.api.autodesk.com/viewingservice/v1/viewers/viewer3D.min.js?v=v1.2.22"></script>
+    <script src="https://developer.api.autodesk.com/viewingservice/v1/viewers/Autodesk360App.js"></script>
+
+    <!-- Developer JS -->
+    <script>
+        $(document).ready(function () {
+
+                var viewerApp;
+                var options = {
+                    env: 'AutodeskProduction',
+                    accessToken: 'YOUR ACCESS TOKEN'
+                };
+
+                var documentId = 'YOUR BASE 64 ENCODED URN';
+
+                $.getJSON( 'http://'+window.location.host+ "/v1/models", function( data ) {
+                    console.log(data);
+
+                    options.accessToken = data.accessToken;
+                    documentId = data.urn;
+
+
+
+                    documentId = "urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bW9kZWwyMDE3LTAxLTA3LTE1LTE5LTI3LXJhcnp0NWRsZDF5eWRyamh1YTY2Znl1bmZhdzQvU3Byb3V0JTIwMiUyMHYzNy5zdGw" ;
+
+
+                    console.log(options.accessToken, documentId);
+                    
+                    Autodesk.Viewing.Initializer(options, function onInitialized(){
+                        viewerApp = new Autodesk.A360ViewingApplication('viewer');
+                        viewerApp.registerViewer(viewerApp.k3D, Autodesk.Viewing.Private.GuiViewer3D);
+                        viewerApp.loadDocumentWithItemAndObject(documentId);
+                    });
+
+                });
+
+        });
+
+
+    </script>
+  </body>
+</html>

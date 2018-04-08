@@ -1,0 +1,612 @@
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-05T04:10:50.230Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-05T04:10:50.232Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-05T04:10:50.232Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to W7GG6B6sk1rUuv7qh4vZsR\u001b[39m\u001b[22m","timestamp":"2018-04-05T04:10:50.542Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to akM34nryWgxHRrsYCDnWCzNexF9mj\u001b[39m\u001b[22m","timestamp":"2018-04-05T04:10:50.576Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-05T16:01:59.044Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-05T16:01:59.046Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-05T16:01:59.046Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to yddwbnzTDp4MkgMvHQMfFscvCazBsMHjM36au\u001b[39m\u001b[22m","timestamp":"2018-04-05T16:01:59.372Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to Ea6kNzTd2sPDpjwBJ8jFgUADYNvFz\u001b[39m\u001b[22m","timestamp":"2018-04-05T16:01:59.406Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-05T16:03:40.612Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-05T16:03:40.614Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-05T16:03:40.614Z"}
+{"level":"info","message":"--","timestamp":"2018-04-05T16:03:40.855Z"}
+{"level":"info","message":"\u001b[32mLiveco  - Development Environment - Development Environment\u001b[39m","timestamp":"2018-04-05T16:03:40.855Z"}
+{"level":"info","message":"","timestamp":"2018-04-05T16:03:40.855Z"}
+{"level":"info","message":"\u001b[32mEnvironment:     development\u001b[39m","timestamp":"2018-04-05T16:03:40.855Z"}
+{"level":"info","message":"\u001b[32mServer:          http://0.0.0.0:3000\u001b[39m","timestamp":"2018-04-05T16:03:40.855Z"}
+{"level":"info","message":"\u001b[32mDatabase:        mongodb://127.0.0.1:27017/mean-dev\u001b[39m","timestamp":"2018-04-05T16:03:40.855Z"}
+{"level":"info","message":"\u001b[32mApp version:     0.5.0-beta\u001b[39m","timestamp":"2018-04-05T16:03:40.855Z"}
+{"level":"info","message":"\u001b[32mMEAN.JS version: 0.5.0-beta\u001b[39m","timestamp":"2018-04-05T16:03:40.855Z"}
+{"level":"info","message":"--","timestamp":"2018-04-05T16:03:40.855Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to gsahFaXg6tucSYhqVn75G2ktCMfrxAx\u001b[39m\u001b[22m","timestamp":"2018-04-05T16:03:40.911Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to g9DXhrfc4rFJq1Kx85RHE2rYzx5XvsscwS7CVBB\u001b[39m\u001b[22m","timestamp":"2018-04-05T16:03:40.944Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T02:21:28.627Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T02:21:28.629Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T02:21:28.629Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to Ym8WwUMNGZCNDdaadHmHAtS\u001b[39m\u001b[22m","timestamp":"2018-04-06T02:21:28.957Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to gnjyZ4JnKHacrzweGXnJRmbbN\u001b[39m\u001b[22m","timestamp":"2018-04-06T02:21:28.990Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T02:21:44.934Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T02:21:44.936Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T02:21:44.936Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T02:21:45.174Z"}
+{"level":"info","message":"\u001b[32mLiveco  - Development Environment - Development Environment\u001b[39m","timestamp":"2018-04-06T02:21:45.174Z"}
+{"level":"info","message":"","timestamp":"2018-04-06T02:21:45.174Z"}
+{"level":"info","message":"\u001b[32mEnvironment:     development\u001b[39m","timestamp":"2018-04-06T02:21:45.174Z"}
+{"level":"info","message":"\u001b[32mServer:          http://0.0.0.0:3000\u001b[39m","timestamp":"2018-04-06T02:21:45.175Z"}
+{"level":"info","message":"\u001b[32mDatabase:        mongodb://127.0.0.1:27017/mean-dev\u001b[39m","timestamp":"2018-04-06T02:21:45.175Z"}
+{"level":"info","message":"\u001b[32mApp version:     0.5.0-beta\u001b[39m","timestamp":"2018-04-06T02:21:45.175Z"}
+{"level":"info","message":"\u001b[32mMEAN.JS version: 0.5.0-beta\u001b[39m","timestamp":"2018-04-06T02:21:45.175Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T02:21:45.175Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to Fxs8zDcTTrDa6PM41sfHjD\u001b[39m\u001b[22m","timestamp":"2018-04-06T02:21:45.229Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to jZSArMjPPexFwhmbeq9ddMsrfUMDn3\u001b[39m\u001b[22m","timestamp":"2018-04-06T02:21:45.262Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T02:42:51.069Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T02:42:51.070Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T02:42:51.070Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T02:42:51.316Z"}
+{"level":"info","message":"\u001b[32mLiveco  - Development Environment - Development Environment\u001b[39m","timestamp":"2018-04-06T02:42:51.317Z"}
+{"level":"info","message":"","timestamp":"2018-04-06T02:42:51.317Z"}
+{"level":"info","message":"\u001b[32mEnvironment:     development\u001b[39m","timestamp":"2018-04-06T02:42:51.317Z"}
+{"level":"info","message":"\u001b[32mServer:          http://0.0.0.0:3000\u001b[39m","timestamp":"2018-04-06T02:42:51.317Z"}
+{"level":"info","message":"\u001b[32mDatabase:        mongodb://127.0.0.1:27017/mean-dev\u001b[39m","timestamp":"2018-04-06T02:42:51.317Z"}
+{"level":"info","message":"\u001b[32mApp version:     0.5.0-beta\u001b[39m","timestamp":"2018-04-06T02:42:51.317Z"}
+{"level":"info","message":"\u001b[32mMEAN.JS version: 0.5.0-beta\u001b[39m","timestamp":"2018-04-06T02:42:51.317Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T02:42:51.317Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to uFvPbKRQwwa2Kubkvn24MdKKMes9K\u001b[39m\u001b[22m","timestamp":"2018-04-06T02:42:51.374Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to xX1jp7zC6NdPXzMXjVFFHbtNRYdb\u001b[39m\u001b[22m","timestamp":"2018-04-06T02:42:51.410Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T02:49:15.942Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T02:49:15.944Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T02:49:15.944Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to czKRBRaXvFvrGHtSV1CbpUHUNgzvd\u001b[39m\u001b[22m","timestamp":"2018-04-06T02:49:16.236Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to kWBEQWq4FEjm4zEsJH3N8NupT\u001b[39m\u001b[22m","timestamp":"2018-04-06T02:49:16.272Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T02:49:48.467Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T02:49:48.468Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T02:49:48.468Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T02:49:48.708Z"}
+{"level":"info","message":"\u001b[32mLiveco  - Development Environment - Development Environment\u001b[39m","timestamp":"2018-04-06T02:49:48.708Z"}
+{"level":"info","message":"","timestamp":"2018-04-06T02:49:48.708Z"}
+{"level":"info","message":"\u001b[32mEnvironment:     development\u001b[39m","timestamp":"2018-04-06T02:49:48.709Z"}
+{"level":"info","message":"\u001b[32mServer:          http://0.0.0.0:3000\u001b[39m","timestamp":"2018-04-06T02:49:48.709Z"}
+{"level":"info","message":"\u001b[32mDatabase:        mongodb://127.0.0.1:27017/mean-dev\u001b[39m","timestamp":"2018-04-06T02:49:48.709Z"}
+{"level":"info","message":"\u001b[32mApp version:     0.5.0-beta\u001b[39m","timestamp":"2018-04-06T02:49:48.709Z"}
+{"level":"info","message":"\u001b[32mMEAN.JS version: 0.5.0-beta\u001b[39m","timestamp":"2018-04-06T02:49:48.709Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T02:49:48.709Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to jw1z4jzQXFcF6Sk9UDEv9v9xjPsjBpEjR\u001b[39m\u001b[22m","timestamp":"2018-04-06T02:49:48.764Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to MbAyRj2zFUMdjxV9JnxJ2fFVAcaBFK5g9\u001b[39m\u001b[22m","timestamp":"2018-04-06T02:49:48.798Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T06:55:41.281Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T06:55:41.284Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T06:55:41.284Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T06:55:43.336Z"}
+{"level":"info","message":"\u001b[32mLiveco  - Development Environment - Development Environment\u001b[39m","timestamp":"2018-04-06T06:55:43.337Z"}
+{"level":"info","message":"","timestamp":"2018-04-06T06:55:43.337Z"}
+{"level":"info","message":"\u001b[32mEnvironment:     development\u001b[39m","timestamp":"2018-04-06T06:55:43.337Z"}
+{"level":"info","message":"\u001b[32mServer:          http://0.0.0.0:3000\u001b[39m","timestamp":"2018-04-06T06:55:43.337Z"}
+{"level":"info","message":"\u001b[32mDatabase:        mongodb://127.0.0.1:27017/mean-dev\u001b[39m","timestamp":"2018-04-06T06:55:43.337Z"}
+{"level":"info","message":"\u001b[32mApp version:     0.5.0-beta\u001b[39m","timestamp":"2018-04-06T06:55:43.338Z"}
+{"level":"info","message":"\u001b[32mMEAN.JS version: 0.5.0-beta\u001b[39m","timestamp":"2018-04-06T06:55:43.338Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T06:55:43.338Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to 4G1SZDH9ntXTMPcseAcmkFNYVCp8Hh\u001b[39m\u001b[22m","timestamp":"2018-04-06T06:55:43.474Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to ZQpKHSDx9qXfVBkaYATvwxkA9\u001b[39m\u001b[22m","timestamp":"2018-04-06T06:55:43.516Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m1547.250 ms - 20\u001b[0m\n","timestamp":"2018-04-06T08:10:42.378Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m1226.239 ms - 20\u001b[0m\n","timestamp":"2018-04-06T08:12:45.820Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m1527.970 ms - 20\u001b[0m\n","timestamp":"2018-04-06T08:14:49.414Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m1077.978 ms - 20\u001b[0m\n","timestamp":"2018-04-06T08:16:52.596Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m1193.201 ms - 20\u001b[0m\n","timestamp":"2018-04-06T08:18:55.999Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m2022.822 ms - 20\u001b[0m\n","timestamp":"2018-04-06T08:20:49.284Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m1159.451 ms - 20\u001b[0m\n","timestamp":"2018-04-06T08:22:52.587Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:28:44.379Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:28:44.381Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:28:44.381Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T08:28:44.649Z"}
+{"level":"info","message":"\u001b[32mLiveco  - Development Environment - Development Environment\u001b[39m","timestamp":"2018-04-06T08:28:44.649Z"}
+{"level":"info","message":"","timestamp":"2018-04-06T08:28:44.650Z"}
+{"level":"info","message":"\u001b[32mEnvironment:     development\u001b[39m","timestamp":"2018-04-06T08:28:44.650Z"}
+{"level":"info","message":"\u001b[32mServer:          http://0.0.0.0:3000\u001b[39m","timestamp":"2018-04-06T08:28:44.650Z"}
+{"level":"info","message":"\u001b[32mDatabase:        mongodb://127.0.0.1:27017/mean-dev\u001b[39m","timestamp":"2018-04-06T08:28:44.650Z"}
+{"level":"info","message":"\u001b[32mApp version:     0.5.0-beta\u001b[39m","timestamp":"2018-04-06T08:28:44.650Z"}
+{"level":"info","message":"\u001b[32mMEAN.JS version: 0.5.0-beta\u001b[39m","timestamp":"2018-04-06T08:28:44.650Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T08:28:44.650Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to APx6P8gB7azuDYBJhSTZ4DyfkHGqCktDZJA\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:28:44.748Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to 9MppJp3DR7qWP9Mqp2qtCrvrhAkxNZmpw\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:28:44.784Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m1511.816 ms - 20\u001b[0m\n","timestamp":"2018-04-06T08:28:55.599Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m1127.029 ms - 20\u001b[0m\n","timestamp":"2018-04-06T08:30:58.971Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m1094.486 ms - 20\u001b[0m\n","timestamp":"2018-04-06T08:33:02.152Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m459.156 ms - 20\u001b[0m\n","timestamp":"2018-04-06T08:35:04.895Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m543.101 ms - 20\u001b[0m\n","timestamp":"2018-04-06T08:37:07.523Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:37:19.466Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:37:19.468Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:37:19.468Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to QsUR73wMhdNHgG4N14kGVzpCDGfeE7RpYZZTB\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:37:19.782Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to cSvyG8n3rf6x3UhA4yT2ft2J7Zk\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:37:19.818Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:37:55.231Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:37:55.232Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:37:55.233Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to kMPE1q3MnxnhMMNehtWbD79MMrEKK4\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:37:55.549Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to 9xp1pCpw8DKhVbtVdT1HRMc5JJTc5Wzjxy8pYNb\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:37:55.586Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:39:04.809Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:39:04.810Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:39:04.811Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to vEMctz22dMUF432N5WW8fTq1j1C4BWhpum9V\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:39:05.160Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to 9hyx2p9yUTmjKe3Mf9z3N6P9Yg\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:39:05.196Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:40:04.835Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:40:04.836Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:40:04.837Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to MPJgpFZCcuV4qkPyfvSHAuq1mZ\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:40:05.167Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to MYcJ4HARzgQUXcmNwzBEeKz\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:40:05.205Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:41:14.536Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:41:14.538Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:41:14.538Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to N2MkDfx4Tp11e9T946g5AJYAcx5HSgD\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:41:14.861Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to kntpZkbv3wjRQJvUHvbjJRgtg1hp\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:41:14.923Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:41:26.983Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:41:26.984Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:41:26.985Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to MxnX5VBxf1tQAZVUxkegNBgZtR1xC6YBMuSQbk\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:41:27.344Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to GukSpnz6sfBBaR8DmqBQKqZ\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:41:27.381Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:45:30.770Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:45:30.771Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:45:30.772Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to p7eCGCAgMesmCyqV3atGg5yDmZ38PrBzMHJ\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:45:31.086Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to Gyup9uMTSzgDPku9yZdMXTgRd1Qf4W7Abg\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:45:31.124Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:46:03.137Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:46:03.139Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:46:03.139Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to dtBVaXmBjRhDrBCz4V3N42z8ANRc4dvwJ\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:46:03.491Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to TDVmAa473R6WaGgw7PN88dh41Q8wE\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:46:03.528Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:46:28.967Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:46:28.969Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:46:28.969Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to 8XEF42JPtk7FggUE4FAfyfhkmuBRQB81\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:46:29.319Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to RX48K7dsRnNPAT8FhVesWaxNuPvNj\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:46:29.355Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:49:08.357Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:49:08.358Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:49:08.359Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to xnGANrEpgwaM74cnnNGvbn7Q\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:49:08.671Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to rgvfyjkRJgcsEChK2gdu1sx\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:49:08.705Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:49:47.490Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:49:47.492Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:49:47.492Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to FZ1AYC78e9CfuHBJ7UJZ7zzCK4kT\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:49:47.852Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to j215Epnb7v8CGPB97XyxyrAZkc1p\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:49:47.888Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:50:39.847Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:50:39.849Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:50:39.849Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to AcsNcJjhp4ddh4Gd8yp8nTYhjzSgXB\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:50:40.206Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to h2ju7gxGrq73be6bBv9UhfAWt9J3yS6gzrED1yG\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:50:40.243Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:50:49.372Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:50:49.374Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:50:49.374Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to Xn7DGg66YMt8u5ZuXmSDfrv9bE1xnFQrceN\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:50:49.732Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to KVFHPR1gCMb1WfxK8CAt8dJ7jCupM2X7pKp\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:50:49.768Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:54:02.683Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:54:02.685Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:54:02.685Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T08:54:10.319Z"}
+{"level":"info","message":"\u001b[32mLiveco  - Development Environment - Development Environment\u001b[39m","timestamp":"2018-04-06T08:54:10.319Z"}
+{"level":"info","message":"","timestamp":"2018-04-06T08:54:10.319Z"}
+{"level":"info","message":"\u001b[32mEnvironment:     development\u001b[39m","timestamp":"2018-04-06T08:54:10.319Z"}
+{"level":"info","message":"\u001b[32mServer:          http://0.0.0.0:3000\u001b[39m","timestamp":"2018-04-06T08:54:10.319Z"}
+{"level":"info","message":"\u001b[32mDatabase:        mongodb://127.0.0.1:27017/mean-dev\u001b[39m","timestamp":"2018-04-06T08:54:10.319Z"}
+{"level":"info","message":"\u001b[32mApp version:     0.5.0-beta\u001b[39m","timestamp":"2018-04-06T08:54:10.320Z"}
+{"level":"info","message":"\u001b[32mMEAN.JS version: 0.5.0-beta\u001b[39m","timestamp":"2018-04-06T08:54:10.320Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T08:54:10.320Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to EDmua6kQVfS7rPzqKE4fmjfRCYd5pJjh7ZhsWj\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:54:10.532Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to uraqTRSFuY4X3WNAPYYG8kH8tc2P\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:54:10.566Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:54:27.903Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:54:27.905Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:54:27.905Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to nr4VgzZBak93jqAFVeP2F\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:54:28.230Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to Tt1pwnCQkruzYJ6KfyQHasFrNrwFkeY4WnZqB\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:54:28.263Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:54:55.246Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:54:55.247Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:54:55.248Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T08:54:55.482Z"}
+{"level":"info","message":"\u001b[32mLiveco  - Development Environment - Development Environment\u001b[39m","timestamp":"2018-04-06T08:54:55.483Z"}
+{"level":"info","message":"","timestamp":"2018-04-06T08:54:55.483Z"}
+{"level":"info","message":"\u001b[32mEnvironment:     development\u001b[39m","timestamp":"2018-04-06T08:54:55.483Z"}
+{"level":"info","message":"\u001b[32mServer:          http://0.0.0.0:3000\u001b[39m","timestamp":"2018-04-06T08:54:55.483Z"}
+{"level":"info","message":"\u001b[32mDatabase:        mongodb://127.0.0.1:27017/mean-dev\u001b[39m","timestamp":"2018-04-06T08:54:55.483Z"}
+{"level":"info","message":"\u001b[32mApp version:     0.5.0-beta\u001b[39m","timestamp":"2018-04-06T08:54:55.483Z"}
+{"level":"info","message":"\u001b[32mMEAN.JS version: 0.5.0-beta\u001b[39m","timestamp":"2018-04-06T08:54:55.483Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T08:54:55.483Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to DMw8GZCHRDamnu4w7e5d32\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:54:55.544Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to w5tsvyauSVT77MMxJgZFQDjuCty1A\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:54:55.577Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m551.065 ms - 20\u001b[0m\n","timestamp":"2018-04-06T08:55:19.756Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m407.974 ms - 20\u001b[0m\n","timestamp":"2018-04-06T08:56:06.608Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m658.966 ms - 20\u001b[0m\n","timestamp":"2018-04-06T08:56:38.154Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:57:43.727Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:57:43.729Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:57:43.730Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to uTEQjxFBqRr8Kwm5vRFxcuQcm4m\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:57:44.081Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to 5qsc5JVjYweDM7kdbGRwknC6X1XU\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:57:44.115Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:57:58.265Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:57:58.266Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:57:58.267Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to S2r17zkqJktrRd46bJNz7\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:57:58.555Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to XhV6JAjd3XjfVHv6YKZAgaByYXP\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:57:58.598Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:58:12.241Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:58:12.243Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:58:12.243Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to 1ZHgaR7rtgm1RyHeHGqK4bHWGbqR\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:58:12.544Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to VQYW5CGJtGRbDq1Yepb1YSzxwMQEY6QzF3f\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:58:12.576Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:59:05.450Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T08:59:05.452Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T08:59:05.452Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to TXqXCdCF48HJzgX2Rc75\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:59:05.746Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to Z1xYfVn2pR7dycrwq9zwUBt4rhFdquA\u001b[39m\u001b[22m","timestamp":"2018-04-06T08:59:05.779Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:04:12.090Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T09:04:12.092Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T09:04:12.092Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to sUd2QpbpexxvaVVhNcGgkyn\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:04:12.389Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to MmHMgQxpxEGhUpaUSdbBC\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:04:12.423Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:05:58.243Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T09:05:58.245Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T09:05:58.245Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to wZKUJ9skxV2DjmCn5AXSUfkBDsqJr3jQZaXuy\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:05:58.542Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to uEHSAS7QmTgdZ4Tdh54NQUtvw\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:05:58.586Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:08:07.386Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T09:08:07.388Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T09:08:07.388Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to HtPQH5j7DFMhRRk5EyZQTkkdC\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:08:07.739Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to x7CwTJDhSjqqwwa7snc8ufEKRrYzZnKy\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:08:07.772Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:08:48.565Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T09:08:48.567Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T09:08:48.567Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to jnSSacM6mk6TUN8UYk8ccFRfZvMA\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:08:48.868Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to qZ4SjNWR6VM4kjaE5htfXtjfzE3eaH6mPt27P\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:08:48.902Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:10:08.526Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T09:10:08.527Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T09:10:08.528Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to EMxg4fa2K3VHAEjb3qszQ1g35yJuGTqf7yUuE\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:10:08.855Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to rKbuFqx24pvMh1MWS8Jr2HH3HyAyAAMxr\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:10:08.889Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:13:20.581Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T09:13:20.582Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T09:13:20.582Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to sGqvT5pPq8bww8RYcHWbAgF\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:13:20.876Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to qFZFaS5k823rhuQM7ehywzkvNh3He\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:13:20.910Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:19:07.561Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T09:19:07.562Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T09:19:07.563Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to geUj65rgd5t2swshcgtTkcF8rWSaQqhBstE9P\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:19:07.858Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to R8WXMqpHGrbcbMYKGv7bssWYwE6PTqdE7mxYa2Z\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:19:07.891Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:19:51.711Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T09:19:51.713Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T09:19:51.713Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to qaabxbFPSBAmhArgeDHmNC7D\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:19:52.009Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to Y14JnksCYam3BZ9tkqEFyvhHjEFfA\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:19:52.063Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:21:59.784Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T09:21:59.785Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T09:21:59.786Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T09:22:00.026Z"}
+{"level":"info","message":"\u001b[32mLiveco  - Development Environment - Development Environment\u001b[39m","timestamp":"2018-04-06T09:22:00.027Z"}
+{"level":"info","message":"","timestamp":"2018-04-06T09:22:00.027Z"}
+{"level":"info","message":"\u001b[32mEnvironment:     development\u001b[39m","timestamp":"2018-04-06T09:22:00.027Z"}
+{"level":"info","message":"\u001b[32mServer:          http://0.0.0.0:3000\u001b[39m","timestamp":"2018-04-06T09:22:00.027Z"}
+{"level":"info","message":"\u001b[32mDatabase:        mongodb://127.0.0.1:27017/mean-dev\u001b[39m","timestamp":"2018-04-06T09:22:00.027Z"}
+{"level":"info","message":"\u001b[32mApp version:     0.5.0-beta\u001b[39m","timestamp":"2018-04-06T09:22:00.027Z"}
+{"level":"info","message":"\u001b[32mMEAN.JS version: 0.5.0-beta\u001b[39m","timestamp":"2018-04-06T09:22:00.027Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T09:22:00.027Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to 1S26zDypKbHueMhSgM4Kw7gE8ZxMZn\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:22:00.085Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to v2Vx2kbaakvdszXezV2H2\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:22:00.135Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m553.992 ms - 20\u001b[0m\n","timestamp":"2018-04-06T09:22:20.218Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m828.432 ms - 20\u001b[0m\n","timestamp":"2018-04-06T09:24:23.200Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:25:24.236Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T09:25:24.238Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T09:25:24.238Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to U3HcH9hS1Y3JUWxKFn8CpcZuSaPEZ\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:25:24.564Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to yfrdZ9pnPGEZEpMdV8REY\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:25:24.597Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:25:47.469Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T09:25:47.470Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T09:25:47.471Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T09:25:47.709Z"}
+{"level":"info","message":"\u001b[32mLiveco  - Development Environment - Development Environment\u001b[39m","timestamp":"2018-04-06T09:25:47.709Z"}
+{"level":"info","message":"","timestamp":"2018-04-06T09:25:47.709Z"}
+{"level":"info","message":"\u001b[32mEnvironment:     development\u001b[39m","timestamp":"2018-04-06T09:25:47.709Z"}
+{"level":"info","message":"\u001b[32mServer:          http://0.0.0.0:3000\u001b[39m","timestamp":"2018-04-06T09:25:47.709Z"}
+{"level":"info","message":"\u001b[32mDatabase:        mongodb://127.0.0.1:27017/mean-dev\u001b[39m","timestamp":"2018-04-06T09:25:47.710Z"}
+{"level":"info","message":"\u001b[32mApp version:     0.5.0-beta\u001b[39m","timestamp":"2018-04-06T09:25:47.710Z"}
+{"level":"info","message":"\u001b[32mMEAN.JS version: 0.5.0-beta\u001b[39m","timestamp":"2018-04-06T09:25:47.710Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T09:25:47.710Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to hgrvzmPeZ4Vastw4gjeaMjh\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:25:47.801Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to JezSjvm1QcPtAS4qUjHdBQeM4r7gpeujS\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:25:47.836Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m1258.604 ms - 20\u001b[0m\n","timestamp":"2018-04-06T09:26:01.261Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:28:06.132Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T09:28:06.133Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T09:28:06.133Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T09:28:06.370Z"}
+{"level":"info","message":"\u001b[32mLiveco  - Development Environment - Development Environment\u001b[39m","timestamp":"2018-04-06T09:28:06.370Z"}
+{"level":"info","message":"","timestamp":"2018-04-06T09:28:06.370Z"}
+{"level":"info","message":"\u001b[32mEnvironment:     development\u001b[39m","timestamp":"2018-04-06T09:28:06.370Z"}
+{"level":"info","message":"\u001b[32mServer:          http://0.0.0.0:3000\u001b[39m","timestamp":"2018-04-06T09:28:06.370Z"}
+{"level":"info","message":"\u001b[32mDatabase:        mongodb://127.0.0.1:27017/mean-dev\u001b[39m","timestamp":"2018-04-06T09:28:06.370Z"}
+{"level":"info","message":"\u001b[32mApp version:     0.5.0-beta\u001b[39m","timestamp":"2018-04-06T09:28:06.370Z"}
+{"level":"info","message":"\u001b[32mMEAN.JS version: 0.5.0-beta\u001b[39m","timestamp":"2018-04-06T09:28:06.370Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T09:28:06.371Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to uzwr3Fy1xdrxSFXFrP8GthrDrzG\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:28:06.425Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to 8FyBxmfqweSKat3j5bFyMVqqsyXm\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:28:06.458Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m2082.659 ms - 20\u001b[0m\n","timestamp":"2018-04-06T09:28:18.309Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[33m400 \u001b[0m1246.834 ms - 20\u001b[0m\n","timestamp":"2018-04-06T09:30:21.770Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:31:23.890Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-06T09:31:23.892Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-06T09:31:23.892Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T09:31:24.130Z"}
+{"level":"info","message":"\u001b[32mLiveco  - Development Environment - Development Environment\u001b[39m","timestamp":"2018-04-06T09:31:24.130Z"}
+{"level":"info","message":"","timestamp":"2018-04-06T09:31:24.130Z"}
+{"level":"info","message":"\u001b[32mEnvironment:     development\u001b[39m","timestamp":"2018-04-06T09:31:24.131Z"}
+{"level":"info","message":"\u001b[32mServer:          http://0.0.0.0:3000\u001b[39m","timestamp":"2018-04-06T09:31:24.131Z"}
+{"level":"info","message":"\u001b[32mDatabase:        mongodb://127.0.0.1:27017/mean-dev\u001b[39m","timestamp":"2018-04-06T09:31:24.131Z"}
+{"level":"info","message":"\u001b[32mApp version:     0.5.0-beta\u001b[39m","timestamp":"2018-04-06T09:31:24.131Z"}
+{"level":"info","message":"\u001b[32mMEAN.JS version: 0.5.0-beta\u001b[39m","timestamp":"2018-04-06T09:31:24.131Z"}
+{"level":"info","message":"--","timestamp":"2018-04-06T09:31:24.131Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to h14Qca3ESbwEC2AWpctquV74Bp\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:31:24.186Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to EFwCsJpqRFyhgVnygV6tmssyvw\u001b[39m\u001b[22m","timestamp":"2018-04-06T09:31:24.219Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-06T09:31:34.210Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-06T09:31:34.210Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m515.011 ms - 6\u001b[0m\n","timestamp":"2018-04-06T09:31:34.227Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-06T09:32:54.871Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-06T09:32:54.871Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m11249.837 ms - 6\u001b[0m\n","timestamp":"2018-04-06T09:32:54.873Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-06T09:34:58.976Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-06T09:34:58.976Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1629.156 ms - 6\u001b[0m\n","timestamp":"2018-04-06T09:34:58.978Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-06T09:37:03.430Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-06T09:37:03.431Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m2333.681 ms - 6\u001b[0m\n","timestamp":"2018-04-06T09:37:03.432Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mWarning:  Database seeding is turned on\u001b[39m\u001b[22m","timestamp":"2018-04-07T07:19:23.383Z"}
+{"username":"admin","provider":"local","email":"admin@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"admin_sizhe_xi","roles":["user","admin"],"level":"info","message":"","timestamp":"2018-04-07T07:19:23.386Z"}
+{"username":"sizhe_xi","provider":"local","email":"xi@liveco.io","firstName":"sizhe","lastName":"xi","displayName":"sizhe_xi","roles":["user"],"level":"info","message":"","timestamp":"2018-04-07T07:19:23.386Z"}
+{"level":"info","message":"--","timestamp":"2018-04-07T07:19:26.296Z"}
+{"level":"info","message":"\u001b[32mLiveco  - Development Environment - Development Environment\u001b[39m","timestamp":"2018-04-07T07:19:26.296Z"}
+{"level":"info","message":"","timestamp":"2018-04-07T07:19:26.296Z"}
+{"level":"info","message":"\u001b[32mEnvironment:     development\u001b[39m","timestamp":"2018-04-07T07:19:26.297Z"}
+{"level":"info","message":"\u001b[32mServer:          http://0.0.0.0:3000\u001b[39m","timestamp":"2018-04-07T07:19:26.297Z"}
+{"level":"info","message":"\u001b[32mDatabase:        mongodb://127.0.0.1:27017/mean-dev\u001b[39m","timestamp":"2018-04-07T07:19:26.297Z"}
+{"level":"info","message":"\u001b[32mApp version:     0.5.0-beta\u001b[39m","timestamp":"2018-04-07T07:19:26.297Z"}
+{"level":"info","message":"\u001b[32mMEAN.JS version: 0.5.0-beta\u001b[39m","timestamp":"2018-04-07T07:19:26.297Z"}
+{"level":"info","message":"--","timestamp":"2018-04-07T07:19:26.297Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal sizhe_xi added with password set to VwPUjhtD8fsBxz9asxEztd3gne7u\u001b[39m\u001b[22m","timestamp":"2018-04-07T07:19:26.381Z"}
+{"level":"info","message":"\u001b[1m\u001b[31mDatabase Seeding:\t\t\tLocal admin added with password set to TQPMrVYrwKrJaaPR2ZWuEUZEvNu\u001b[39m\u001b[22m","timestamp":"2018-04-07T07:19:26.429Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:19:47.981Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:19:47.981Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1384.264 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:19:48.010Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:21:52.257Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:21:52.257Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m2095.296 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:21:52.260Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:23:55.468Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:23:55.468Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m999.455 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:23:55.470Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:25:59.286Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:25:59.287Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1748.124 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:25:59.289Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:28:02.563Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:28:02.564Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1123.012 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:28:02.565Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:30:05.900Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:30:05.901Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1200.794 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:30:05.902Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:32:09.829Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:32:09.830Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1722.718 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:32:09.831Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:34:13.751Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:34:13.751Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1735.877 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:34:13.752Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:36:17.247Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:36:17.247Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1298.318 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:36:17.249Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:38:20.523Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:38:20.523Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1218.978 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:38:20.525Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:40:24.302Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:40:24.302Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1676.633 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:40:24.304Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:42:27.829Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:42:27.829Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1293.785 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:42:27.831Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:44:31.049Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:44:31.049Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1148.447 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:44:31.051Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:46:34.509Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:46:34.509Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1475.269 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:46:34.511Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:48:38.584Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:48:38.585Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m2103.371 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:48:38.587Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:50:42.101Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:50:42.102Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1437.781 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:50:42.104Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:52:45.656Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:52:45.656Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1585.570 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:52:45.658Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:54:49.243Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:54:49.244Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1636.247 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:54:49.246Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T07:56:52.427Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T07:56:52.428Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1079.454 ms - 6\u001b[0m\n","timestamp":"2018-04-07T07:56:52.429Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:01:04.304Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:01:04.304Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1172.302 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:01:04.305Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:03:07.577Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:03:07.578Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1302.934 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:03:07.579Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:05:10.774Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:05:10.775Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1110.317 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:05:10.776Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:07:14.191Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:07:14.191Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1335.231 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:07:14.193Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:09:03.152Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:09:03.152Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1103.042 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:09:03.154Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:11:06.523Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:11:06.524Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1250.089 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:11:06.526Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:13:10.061Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:13:10.061Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1137.553 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:13:10.063Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:20:47.978Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:20:47.978Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1108.421 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:20:47.981Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:34:43.075Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:34:43.075Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1642.091 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:34:43.078Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:36:46.417Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:36:46.417Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1257.998 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:36:46.419Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:38:49.729Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:38:49.730Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1351.021 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:38:49.731Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:40:53.001Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:40:53.001Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1301.432 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:40:53.003Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:48:52.573Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:48:52.573Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1164.372 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:48:52.576Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:50:14.527Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:50:14.527Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1346.921 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:50:14.528Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:50:37.449Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:50:37.450Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1805.706 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:50:37.453Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:52:40.831Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:52:40.831Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1400.984 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:52:40.833Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:54:44.098Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:54:44.100Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1281.261 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:54:44.102Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:55:11.776Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:55:11.777Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1324.247 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:55:11.779Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:57:08.445Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:57:08.446Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1208.333 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:57:08.447Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T08:59:05.082Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T08:59:05.083Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1198.242 ms - 6\u001b[0m\n","timestamp":"2018-04-07T08:59:05.084Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:01:08.114Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:01:08.114Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1051.422 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:01:08.116Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:03:11.320Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:03:11.320Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1167.027 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:03:11.322Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:05:14.386Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:05:14.386Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1077.188 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:05:14.387Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:07:17.991Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:07:17.991Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1499.061 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:07:17.992Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:09:21.447Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:09:21.448Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1257.344 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:09:21.449Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:11:33.502Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:11:33.502Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m9895.861 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:11:33.504Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:13:37.682Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:13:37.682Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m2025.636 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:13:37.683Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:18:37.949Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:18:37.949Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1773.050 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:18:37.950Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:20:33.281Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:20:33.281Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1303.893 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:20:33.284Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:22:57.865Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:22:57.865Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1436.854 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:22:57.867Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:23:51.275Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:23:51.275Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1004.969 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:23:51.276Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:28:47.953Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:28:47.954Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1049.188 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:28:47.955Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:31:11.883Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:31:11.883Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1041.467 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:31:11.885Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:31:25.152Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:31:25.152Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1158.188 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:31:25.154Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:31:39.081Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:31:39.082Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1853.507 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:31:39.083Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:31:52.792Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:31:52.793Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1593.826 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:31:52.794Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:41:58.253Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:41:58.253Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1122.300 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:41:58.255Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:42:11.585Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:42:11.585Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1242.287 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:42:11.586Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:42:25.493Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:42:25.493Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1917.442 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:42:25.495Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:42:38.849Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:42:38.849Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1288.104 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:42:38.850Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:42:52.200Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:42:52.201Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1267.059 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:42:52.202Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:43:05.257Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:43:05.258Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1094.324 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:43:05.259Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T09:43:18.403Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T09:43:18.403Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1172.249 ms - 6\u001b[0m\n","timestamp":"2018-04-07T09:43:18.404Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:02:33.133Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:02:33.133Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1291.245 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:02:33.135Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:02:46.553Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:02:46.553Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1317.429 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:02:46.555Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:04:22.634Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:04:22.634Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1207.188 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:04:22.636Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:04:36.061Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:04:36.061Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1171.024 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:04:36.062Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:04:49.430Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:04:49.430Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1217.079 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:04:49.431Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:05:02.801Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:05:02.802Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1279.555 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:05:02.804Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:05:16.079Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:05:16.079Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1185.483 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:05:16.080Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:05:29.384Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:05:29.385Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1214.900 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:05:29.386Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:05:42.944Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:05:42.945Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1202.420 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:05:42.946Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:05:56.378Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:05:56.378Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1224.311 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:05:56.380Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:06:09.819Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:06:09.820Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1214.186 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:06:09.821Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:06:23.369Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:06:23.369Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1301.965 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:06:23.371Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:06:36.779Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:06:36.780Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1172.871 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:06:36.781Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:06:50.271Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:06:50.271Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1384.181 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:06:50.273Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:07:03.562Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:07:03.563Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1200.723 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:07:03.564Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:07:16.776Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:07:16.776Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1086.055 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:07:16.778Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:07:30.287Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:07:30.287Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1295.438 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:07:30.289Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:07:38.747Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:07:38.748Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1292.808 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:07:38.750Z"}
+{"level":"info","message":"accept upload image ./uploads/camera_132.jpg","timestamp":"2018-04-07T10:12:00.924Z"}
+{"level":"info","message":"uploadImage    ...... ","timestamp":"2018-04-07T10:12:00.924Z"}
+{"level":"info","message":"\u001b[0mPOST /device/camera_132/images \u001b[32m200 \u001b[0m1292.869 ms - 6\u001b[0m\n","timestamp":"2018-04-07T10:12:00.926Z"}

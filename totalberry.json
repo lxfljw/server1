@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "totalberry-160201",
+  "private_key_id": "aa8e0c3efc5a0203903a46401a8baeb1034c5e49",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvYHmHVgqnLbV2\nCZBvRMQWgCEV3fcfkc9DpsLa/Ca37igdExkIH8XD2CYp40WbtXAcrIV//uHGoUbq\nvuysyLAmzf9qnQsOik7n9cz9PgJY0srnzr59OQWBGJVN6B7LkgZ5NpNKgSw6Dw8z\nA79YIofQxjti2peD5XnPvtd6C7cWqU0EpXqMLEliSTsLGPv0j4dpcj/jvamD5QXg\nra8c86fdQpNfTYNanhFWl0jA0EvH0YqfLerx/hyges97p5+4PYhZzqW9zXzluH/s\nnNmJaesxuNsFeuze3PNyLaPwQ86OkoX7NSbFfSmcNAkSa0+0A/s/GLcQsckWByv0\nRT5+MB2fAgMBAAECggEASGxWw4TMsW022p/ofYqwT3pqL1WSj/7u0Mk0/qnSc3Ju\nLlOMqsY0LUQ9vl6UiFDNE4pLNyhSpGxFlPtzUYcu91dqeuSPhFmpbDEdjhblcTjb\ngg7mq1+43i8AuUN6NCcBdV0MRmBBm1hMtox9oC/iVl0GeTQ8DcPeIeR1p3jfCwP/\n2J3XpPhB5HgXY6hvs/NFp6Nwj+zl/bXnLVAKFLAUweqa5+pfp9ZCnflvxteGn/zI\npxDFyIMEDhvACftI3Yjyjgky6C++lfmmFeAn3npRl6E8NfAFqbzNDJkv+Z8WuxT7\nS6Uy7qOe3o4GJd/wA4Q0APu4sGYfs7SZAWpEbixuQQKBgQDi3tA2ZeWDcuok3n2a\nU9fEajhqt7RRJVrezb/4jGUZnj3t4K8GMLaQYzyxGPlHXU79Igl9ifpSwhXP+bI5\nlH2anuZbPgGM1OMAXqcJhd4SBSNBnhVPM+xbAPjauS6LHJETD7f0YZ+EdtqtdB9U\nRMwtH5XBdyqNAz8xS7H4GOZruwKBgQDF5RRMhcarocnS8Q3q7o6BSSXHEKrGOJdF\n/lpicqVRw9RSYeOoWg09tqBO2ycG6vg3o8wlu3lXI3w/Ps4/13RoGiS+kVPbbcHv\ntKU+IVct/A0zext/m+7xMVr1FCGYQO9NiCBcM1+ZK0fooo11diPVCTDWwxVsG6t7\nUgz6CbdNbQKBgQCHsTjbsGpsCqlcz+5UBd3Bzr5bpfClsC//nxQ49s/pWKo1wvMs\nQqqPBavhSMygEIEUCe2fNo2QPiGJuREOO3A8sNmarSWENDhpmjNSEM1X/daugnzA\nWI//hj9Rovzhm35x5i7ibhlYwzXcFN5AKr3sJz4M7td2bAC53Upe15XJzQKBgDi+\nfxuSIG2GbsC1ri/3R5V6zAJQnSdJgtbnIDOqfAz+Ahu9RfI4ICPaAg2aeY5aQeJy\nbU9Een6qBi58a9eSiCZxmKesNEdvKXT6b4dpN/5Pj9l7K19j7xfp9xLfOuLVe8jX\nh6/oazkYV/403isYPR4RDJgISFQ/euRZmq73qj/hAoGAOceovuqoO9S1PZpxha/a\nS2nPX/GmppjvB89S99SLt5UmMt35ZMYDiouq4wSplDdh9eEQij8xQQxx1ZFTIWKl\n0LjuOUAzHi/EP/gbXbnnprxKGXqILHAVkB8b0R3Uo3fAWby6nfxEeCkE7A8JSGXk\n3iYWT4QV2Ge2TPiOFt9gii4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "owner-663@totalberry-160201.iam.gserviceaccount.com",
+  "client_id": "102000799837412919463",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/owner-663%40totalberry-160201.iam.gserviceaccount.com"
+}
